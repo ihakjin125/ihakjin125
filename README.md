@@ -1,6 +1,8 @@
 ## Hi there 👋
 
 ## Introduction
+안녕하세요.
+영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
 <!--
 **ihakjin125/ihakjin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
