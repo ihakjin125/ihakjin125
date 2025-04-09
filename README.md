@@ -4,7 +4,7 @@
 안녕하세요.
 영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
 ##Stats
-| `calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | [Add your theme][add-theme] |
+`calm_pink` ![calm_pink][calm_pink] | `ambient_gradient` ![ambient_gradient][ambient_gradient] | [Add your theme][add-theme] 
 <!--
 **ihakjin125/ihakjin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
