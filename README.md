@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header)
 ## Introduction
 안녕하세요.
 영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
