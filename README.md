@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20to%20HakJin's%20GitHub!!&fontSize=60&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome%20to%20HakJin's%20GitHub!!&fontSize=60&&fontColor=d6ace6)
 ## Introduction
 안녕하세요.
 영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
