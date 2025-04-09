@@ -4,7 +4,7 @@
 안녕하세요.
 영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
 
-##Stats
+## Stats
 `ambient_gradient` ![ambient_gradient][ambient_gradient]
 <!--
 **ihakjin125/ihakjin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
