@@ -1,7 +1,7 @@
 ## Hi there 👋
 <!-- header -->
 <p align='center'>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+SeungAh's+Github!👋&fontSize=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ACBCFF&fontColor=0F1035&height=200&section=header&text=Welcome+to+HakJin's+Github!👋&fontSize=40"/>
 </p>
 
 <!-- Contact badge -->
@@ -21,10 +21,11 @@
   <a href="https://www.instagram.com/hak.jin03/?hl=ko"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
-## Introduction
+## Stats
 안녕하세요.
 영남대학교 컴퓨터공학과 다니고 있는 학생입니다.
-
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={ihakjin125@gmail.com}&show_icons=true&theme=radical)
 
 **ihakjin125/ihakjin125** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
