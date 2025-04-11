@@ -20,6 +20,19 @@
   <a href="https://www.instagram.com/hak.jin03/?hl=ko"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
+## 🧱 Tech Stack
+  ### Language
+  <!--Python-->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <!--JavaScript-->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=C++&logoColor=white"/>
+  <!--HTML5-->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <!--CSS-->
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <br/>
+
+
 ## Stats
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ihakjin125\&show_icons=true\&theme=dark#gh-dark-mode-only)
 
