@@ -18,7 +18,7 @@
   <a href="https://www.instagram.com/hak.jin03/?hl=ko"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
-## Introduction
+## 👋Introduction
 안녕하세요.
 
 영남대학교 컴퓨터공학과 다니고 있는 이학진입니다.
@@ -35,7 +35,7 @@
   <br/>
 
 
-## Stats
+## 🔭Stats
 ![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ihakjin125\&show_icons=true\&theme=dark#gh-dark-mode-only)
 
 ## 📊 Top Languages Card
